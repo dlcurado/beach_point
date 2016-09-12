@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Beach Point</string>
+    <string name="action_mapPoint">Map</string>
+
+    <!-- Main Activity Texts -->
+    <string name="title_activity_main_activity">Principal screen</string>
+    <string name="edit_message">Text your message here!</string>
+    <string name="button_send_message">Send</string>
+
+    <!-- Point List Texts -->
+    <string name="title_activity_point_list">Point List</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_map_point_list">Google Maps Point</string>
+</resources>
